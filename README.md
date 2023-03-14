@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayokunle Bankole</h1>
-<h3 align="center">A Cloud DevOps Engineer from Nigeria 🤓</h3>
+<h3 align="center">Cloud DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyzer01&label=Profile%20views&color=0e75b6&style=flat" alt="Bankyjay" /> </p>
 
